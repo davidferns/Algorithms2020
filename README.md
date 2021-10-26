@@ -1,17 +1,20 @@
 # Algorithms2020
 #Author Name- David Fernandes
 
-#Description This repository contains the coursework which i have attempted and completed throughout the duration of the course. It is divided into packages based on the labs.
+#Description 
+This repository contains the coursework which I have attempted and completed throughout the duration of the course. It is divided into packages based on the labs.It also contains an compresion assignment.
 
 Lab1- Contains the implementation of the Russian Peasant's Algorithm. It contains a timer to time how long does it take for the completion of the algorithm.
 
 lab3- Contains the implementation of a recursive fibonacci algorithm and compares it's time taken to complete with an iterative fibonacci algorithm. It also contains the algorithm to solve the tower of hanoi problem with various number of disks.
 
-lab4- Contains the implementation of 3 sorting Algorithms;
+lab4- Contains the implementation of 3 sorting Algorithms:
 
-Selection Sort,
-Insertion Sort
-Bogo Sort 
+1. Selection Sort
+
+2. Insertion Sort
+
+3. Bogo Sort 
 
 These sorting algorithms are tested for various input sizes and compares which algorithm is most efficeint with the help of a timer.
 
