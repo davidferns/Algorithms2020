@@ -9,11 +9,12 @@ lab3- Contains the implementation of a recursive fibonacci algorithm and compare
 
 lab4- Contains the implementation of 3 sorting Algorithms;
 
-Selection Sort
+Selection Sort,
 Insertion Sort
 Bogo Sort 
 
 These sorting algorithms are tested for various input sizes and compares which algorithm is most efficeint with the help of a timer.
+
 lab5- Contains the implementation of the Merge Sort,insertion sort and the Enhanced Merge Sort algorithms and compares which is more efficient.
 
 lab6- Implementation of the Quick Sort and the Enhanced Quick Sort algorithm.
